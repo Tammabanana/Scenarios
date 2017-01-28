@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<colonist>
+	<version>3</version>
+	<mods>Core, EdB Prepare Carefully, Spoons Hair Mod, and Rimsenal - Rimhair</mods>
+	<colonist>
+		<pawnKindDef>Tribesperson</pawnKindDef>
+		<gender>Female</gender>
+		<childhood>FireTender4</childhood>
+		<adulthood>PoisonGardener85</adulthood>
+		<traitNames>
+			<li>GreenThumb</li>
+			<li>DrugDesire</li>
+			<li>NaturalMood</li>
+		</traitNames>
+		<traitDegrees>
+			<li>0</li>
+			<li>2</li>
+			<li>1</li>
+		</traitDegrees>
+		<skinColor>RGBA(0.950, 0.787, 0.558, 1.000)</skinColor>
+		<melanin>0.617939</melanin>
+		<bodyType>Female</bodyType>
+		<hairDef>SPSUsagi</hairDef>
+		<hairColor>RGBA(0.200, 0.684, 0.200, 1.000)</hairColor>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</headGraphicPath>
+		<firstName>Persephone</firstName>
+		<nickName>Seph</nickName>
+		<lastName>Skyfall</lastName>
+		<biologicalAge>20</biologicalAge>
+		<chronologicalAge>20</chronologicalAge>
+		<skillNames>
+			<li>Shooting</li>
+			<li>Melee</li>
+			<li>Social</li>
+			<li>Animals</li>
+			<li>Medicine</li>
+			<li>Cooking</li>
+			<li>Construction</li>
+			<li>Growing</li>
+			<li>Mining</li>
+			<li>Artistic</li>
+			<li>Crafting</li>
+			<li>Research</li>
+		</skillNames>
+		<skillValues>
+			<li>2</li>
+			<li>3</li>
+			<li>3</li>
+			<li>0</li>
+			<li>7</li>
+			<li>4</li>
+			<li>2</li>
+			<li>6</li>
+			<li>0</li>
+			<li>3</li>
+			<li>5</li>
+			<li>5</li>
+		</skillValues>
+		<passions>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>Minor</li>
+			<li>Minor</li>
+			<li>None</li>
+			<li>Major</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+		</passions>
+		<apparel>
+			<li>Apparel_TribalA</li>
+		</apparel>
+		<apparelLayers>
+			<li>3</li>
+		</apparelLayers>
+		<apparelStuff>
+			<li>Turkey_Leather</li>
+		</apparelStuff>
+		<apparelColors>
+			<li>RGBA(1.000, 1.000, 1.000, 1.000)</li>
+		</apparelColors>
+		<randomInjuries>False</randomInjuries>
+		<implants />
+		<injuries>
+			<li>
+				<hediffDef>Burn</hediffDef>
+				<bodyPart>LeftLeg</bodyPart>
+				<severity>2</severity>
+			</li>
+		</injuries>
+	</colonist>
+</colonist>

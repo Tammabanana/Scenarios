@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<colonist>
+	<version>3</version>
+	<mods>Core, EdB Prepare Carefully, Spoons Hair Mod, and Rimsenal - Rimhair</mods>
+	<colonist>
+		<pawnKindDef>Tribesperson</pawnKindDef>
+		<gender>Female</gender>
+		<childhood>TribalThunderer25</childhood>
+		<adulthood>Warrior37</adulthood>
+		<traitNames>
+			<li>Psychopath</li>
+			<li>Bloodlust</li>
+			<li>ShootingAccuracy</li>
+		</traitNames>
+		<traitDegrees>
+			<li>0</li>
+			<li>0</li>
+			<li>1</li>
+		</traitDegrees>
+		<skinColor>RGBA(0.953, 0.796, 0.569, 1.000)</skinColor>
+		<melanin>0.6108871</melanin>
+		<bodyType>Female</bodyType>
+		<hairDef>FemShort</hairDef>
+		<hairColor>RGBA(0.950, 0.516, 0.333, 1.000)</hairColor>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Pointy</headGraphicPath>
+		<firstName>Diana</firstName>
+		<nickName>Di</nickName>
+		<lastName>Skyfall</lastName>
+		<biologicalAge>20</biologicalAge>
+		<chronologicalAge>20</chronologicalAge>
+		<skillNames>
+			<li>Shooting</li>
+			<li>Melee</li>
+			<li>Social</li>
+			<li>Animals</li>
+			<li>Medicine</li>
+			<li>Cooking</li>
+			<li>Construction</li>
+			<li>Growing</li>
+			<li>Mining</li>
+			<li>Artistic</li>
+			<li>Crafting</li>
+			<li>Research</li>
+		</skillNames>
+		<skillValues>
+			<li>4</li>
+			<li>3</li>
+			<li>0</li>
+			<li>4</li>
+			<li>0</li>
+			<li>3</li>
+			<li>6</li>
+			<li>2</li>
+			<li>1</li>
+			<li>3</li>
+			<li>3</li>
+			<li>2</li>
+		</skillValues>
+		<passions>
+			<li>Major</li>
+			<li>Major</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>None</li>
+			<li>Minor</li>
+			<li>None</li>
+		</passions>
+		<apparel>
+			<li>Apparel_TribalA</li>
+		</apparel>
+		<apparelLayers>
+			<li>3</li>
+		</apparelLayers>
+		<apparelStuff>
+			<li>Muffalo_Leather</li>
+		</apparelStuff>
+		<apparelColors>
+			<li>RGBA(1.000, 1.000, 1.000, 1.000)</li>
+		</apparelColors>
+		<randomInjuries>False</randomInjuries>
+		<implants />
+		<injuries>
+			<li>
+				<hediffDef>Gunshot</hediffDef>
+				<bodyPart>Torso</bodyPart>
+				<severity>3</severity>
+			</li>
+		</injuries>
+	</colonist>
+</colonist>
